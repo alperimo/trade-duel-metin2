@@ -1,0 +1,9 @@
+DUELLO_TEKLIF	<Düello> : %s adlý oyuncu seninle eþya'sýna düello yapmak istiyor ??
+DUELLO_KABULETMEDI	<Düello> : %s adlý oyuncu duello teklifini kabul etmedi.
+DUELLO_YAPAMAZ	<Düello> : %s adlý oyuncu þuanda eþya ile duello yapmaya müsait deðil.
+DUELLO_IPTAL	<Düello> : %s adlý oyuncu itemine düello'yu iptal etti.
+DUELLO_PARA_YOK	<Düello> : Panel'e para koymak için yeterli yang yok.
+DUELLO_ANLASMA_VAR	<Düello> : Normal düello teklifi edilmiþken, intikam varken bu seçeneði kullanamassýn.
+DUELLO_ITEMI_HAREKET_ETTIREMESSIN	<Düello> : Düello paneline koyduðun itemde yer deðiþikliði yapamassýn.
+DUELLO_ITEMI_KULLANAMASSIN	<Düello> : Düello panelindeyken eþya kullanamassýn.
+DUELLO_TICARET_YAPAMASSIN	<Düello> : Düello panelinde veya düello esnasýnda ticaret yapamassýn.
